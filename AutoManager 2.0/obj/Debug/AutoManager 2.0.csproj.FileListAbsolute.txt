@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\AutoManager 2.0.exe.config
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\AutoManager 2.0.exe
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\AutoManager 2.0.pdb
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.exe
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.pdb
+c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Authorization.resources
+C:\Users\User\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Owner.resources
+C:\Users\User\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Saler.resources
