@@ -14,3 +14,12 @@ c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 
 c:\users\user\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Authorization.resources
 C:\Users\User\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Owner.resources
 C:\Users\User\documents\visual studio 2017\Projects\AutoManager 2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Saler.resources
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.csprojResolveAssemblyReference.cache
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Authorization.resources
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Form1.resources
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Owner.resources
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Properties.Resources.resources
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager_2._0.Saler.resources
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.csproj.GenerateResource.Cache
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.exe
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\AutoManager2.0\AutoManager 2.0\obj\Debug\AutoManager 2.0.pdb
